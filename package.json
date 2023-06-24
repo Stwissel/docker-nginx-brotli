@@ -1,0 +1,14 @@
+{
+  "name": "demo-docker-test",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite src",
+    "build": "vite build src",
+    "preview": "vite preview src"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
